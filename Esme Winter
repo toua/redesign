@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+	<div id="background">
+		<div id="page">
+			<div id="header">
+				<div id="navigation">
+					<ul>
+						<li class="selected">
+							<a href="index.html">Home</a>
+						</li>
+						<li>
+							<a href="http://www.esmewinter.co.uk/collections/paper">PAPER</a>
+						</li>
+						<li>
+							<a href="http://www.esmewinter.co.uk/collections/textiles">TEXTILES</a>
+						</li>
+						<li>
+							<a href="http://www.esmewinter.co.uk/collections/view-all">VIEW ALL</a>
+						</li>
+						<li>
+							<a href="http://www.esmewinter.co.uk/pages/lcba-at-foyles">PROJECTS</a>
+						</li>
+						<li>
+							<a href="http://www.esmewinter.co.uk/pages/about">ABOUT</a>
+						</li>
+						<li>
+							<a href="http://blog.esmewinter.co.uk/">BLOG</a>
+						</li>
+						
+					</ul>
+				</div>
+			</div>
+			<div id="contents">
+				<div id="adbox">
+					<img src="img/slide.jpg" alt="Img">
+					<h1>INTRODUCTION</h1>
+					<p>
+						Richard and Esme Winter are British designers. Together 
+						they work with the finest makers and materials to craft 
+						simple, striking textiles and paper goods.Their design 
+						ethos is to forge a balance between the beautiful and the 
+						useful, producing a range of items interworked with colour, 
+						pattern, grain and weave.
+
+					</p>
+				</div>
+				<div id="main">
+					<div class="box">
+						<div>
+							<div>
+								<h3> Patterned Paper at the press.</h3>
+								<ul>
+									<li>
+										<h4><a href="news.html">'Frequency' Patterned Paper - Orange</a></h4>
+										<a href="http://www.esmewinter.co.uk/products/frequency-pattern-paper-orange#Orange"><img src="img/Orange.jpg" alt="Img"></a>
+									</li>
+									<li>
+										<h4><a href="news.html">'Squares' Patterned Paper - Navy</a></h4>
+										<a href="http://www.esmewinter.co.uk/products/squares-pattern-paper-navy#Navy"><img src="img/Navy.jpg" alt="Img"></a>
+					
+									</li>
+									</li>
+									<li>
+										<h4><a href="news.html">'Stem' Patterned Paper - Klein Blue</a></h4>
+										<a href="http://www.esmewinter.co.uk/products/stem-pattern-paper-klein-blue#Blue"><img src="img/Blue.jpg" alt="Img"></a>
+										
+										<p><a href='http://www.esmewinter.co.uk/collections/view-all'>VIEW MORE</a></p>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div id="testimonials" class="box">
+						<div>
+							<div>
+								<h3>A6 Pocket Notebooks - The last few.</h3>
+								<p>
+									A slim fit, robust feeling notebook with traditional buckram textured cover. We will soon be coming to the end of the current edition of Pocket Notebooks – Get hold of one while you still can!
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="sidebar">
+					<div class="section">
+						<a href="rooms.html"><img src="img/Corb.jpg" alt="Img"></a>
+						<p> Paper on the press</p>
+					</div>
+					<div class="section">
+						<a href="dives.html"><img src="img/Fragment.jpg" alt="Img"></a>
+						<p> Paper on the press</p>
+					</div>
+					<div class="section">
+						<a href="foods.html"><img src="img/Twist.jpg" alt="Img"></a>
+					<p> Paper on the press</p>
+						<p><a href='http://www.esmewinter.co.uk/collections/view-all'>VIEW MORE</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="footer">
+			<div>
+				<ul class="navigation">
+					<li class="active">
+					<li>
+						<a href="http://instagram.com/esme_winter">Instagram </a>|
+					</li>
+					<li>
+						<a href="https://twitter.com/esmewinter">Twitter</a>|
+					</li>
+					<li>
+						<a href="http://uk.pinterest.com/esmewinter/">Pinterest</a>|
+					</li>
+					<li>
+						<a href="http://www.esmewinter.co.uk/pages/contact">Contact</a>|
+						
+					</li>
+					<li>
+					  <a href='http://www.esmewinter.co.uk/pages/stockists'>STOCKISTS</a> |
+					  </li>
+					<li>
+        <a href='http://www.esmewinter.co.uk/pages/delivery-returns'>DELIVERY/RETURNS</a>|
+        </li>
+					<li>
+        <a href='http://www.esmewinter.co.uk/pages/terms'>T AND C’S</a>|
+        </li>
+
+				</ul>
+				
+			</div>
+			<p>
+				© ESME WINTER 2011-14, ALL RIGHTS RESERVED.
+			</p>
+		</div>
+	</div>
+</body>
+</html>
