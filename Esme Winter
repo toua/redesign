@@ -8,16 +8,16 @@
 </head>
 <body>
 	<div id="background">
-		<div id="page">
-			<div id="header">
-				<div id="navigation">
-					<ul>
-						<li class="selected">
-							<a href="index.html">Home</a>
-						</li>
-						<li>
-							<a href="http://www.esmewinter.co.uk/collections/paper">PAPER</a>
-						</li>
+	<div id="page">
+	<div id="header">
+	<div id="navigation">
+		<ul>
+			<li class="selected">
+				<a href="index.html">Home</a>
+			</li>
+			<li>
+			<a href="http://www.esmewinter.co.uk/collections/paper">PAPER</a>
+			</li>
 						<li>
 							<a href="http://www.esmewinter.co.uk/collections/textiles">TEXTILES</a>
 						</li>
